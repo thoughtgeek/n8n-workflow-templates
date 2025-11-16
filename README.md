@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ⚡ N8N Workflow Collection & Documentation
 
 A professionally organized collection of **2,053 n8n workflows** with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
@@ -397,6 +397,7 @@ This comprehensive collection includes workflows from:
 ---
 
 *This repository represents the most comprehensive and well-organized collection of n8n workflows available, featuring cutting-edge search technology and professional documentation that makes workflow discovery and usage a delightful experience.*
+
 
 =======
 # ⚡ N8N Workflow Collection & Documentation
